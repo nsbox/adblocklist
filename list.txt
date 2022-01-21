@@ -712,7 +712,8 @@ ru.xhamster.com##.wio-xspot-container.wio-xplayer
 myshows.me##.desktop.tablet.clickioadunit980x120.adblock
 myshows.me##.clickioadunit300x600.adblock
 
-@@||www.easyhits4u.com^
+@@||easyhits4u.com^
+easyhits4u.com###frame:style(display: block !important;)
 ! freesolana.top
 @@||freesolana.top^$generichide
 freesolana.top##+js(bab-defuser.js)
