@@ -1,1 +1,1 @@
-# adblocklist
+# Junk Block List
